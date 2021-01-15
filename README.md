@@ -1,7 +1,7 @@
-# Network Computing CSCI 3171.03
-## Assignment 3
-### Elijah Whynot B00616475 and Matt Ward B00671544
-#### March 2020
+# Web-Centric Computing CSCI 3172.03
+## Course Project
+### Matt Ward B00671544
+#### Autumn 2020
 
 M3 prototype of app
 
