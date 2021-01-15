@@ -1,3 +1,8 @@
+# Network Computing CSCI 3171.03
+## Assignment 3
+### Elijah Whynot B00616475 and Matt Ward B00671544
+#### March 2020
+
 M3 prototype of app
 
 Using a paid course to learn how to do this and then build it up to make it our own from there.
